@@ -1,0 +1,2023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="ArtProvider" displayName="ArtProvider" projectFiles="true">
+      <logicalFolder name="classes" displayName="classes" projectFiles="true">
+        <logicalFolder name="fatcow" displayName="fatcow" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/fatcow/icon_png16x16.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="image_1" displayName="image_1" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/image_1/noimage.png</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/image_1/noimage_png.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="open_icon_library-standard"
+                       displayName="open_icon_library-standard"
+                       projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/open_icon_library-standard/icon_png16x16.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="ToolbarIcons"
+                       displayName="ToolbarIcons"
+                       projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/ToolbarIcons/icon_png16x16.h</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/iTOOLBAR.h</itemPath>
+      </logicalFolder>
+      <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/ArtProvider.cpp</itemPath>
+      <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/ArtProvider.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="Base" displayName="Base" projectFiles="true">
+      <logicalFolder name="classes" displayName="classes" projectFiles="true">
+        <itemPath>Base/classes/QueryData.cpp</itemPath>
+        <itemPath>Base/classes/QueryData.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="wxBase" displayName="wxBase" projectFiles="true">
+        <itemPath>Base/wxBase/wxDataViewCtrlB.cpp</itemPath>
+        <itemPath>Base/wxBase/wxDataViewCtrlB.h</itemPath>
+        <itemPath>Base/wxBase/wxDataViewVirtualListModelB.cpp</itemPath>
+        <itemPath>Base/wxBase/wxDataViewVirtualListModelB.h</itemPath>
+      </logicalFolder>
+      <itemPath>Base/Base.cpp</itemPath>
+      <itemPath>Base/Base.h</itemPath>
+      <itemPath>Base/BaseDefs.h</itemPath>
+      <itemPath>Base/ClientData.cpp</itemPath>
+      <itemPath>Base/ClientData.h</itemPath>
+      <itemPath>Base/FUNCTION.h</itemPath>
+      <itemPath>Base/Global_Var.tar.gz</itemPath>
+      <itemPath>Base/MYDEFINE.h</itemPath>
+      <itemPath>Base/MyConfig.cpp</itemPath>
+      <itemPath>Base/MyConfig.h</itemPath>
+      <itemPath>Base/MyUtils.cpp</itemPath>
+      <itemPath>Base/MyUtils.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="Contrib" displayName="Contrib" projectFiles="true">
+      <logicalFolder name="wxthings" displayName="wxthings" projectFiles="true">
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/precomp.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/precomp.h</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/thingdef.h</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/toggle.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/toggle.h</itemPath>
+      </logicalFolder>
+      <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/mmwx.tar.gz</itemPath>
+    </logicalFolder>
+    <logicalFolder name="Ctrl" displayName="Ctrl" projectFiles="true">
+      <logicalFolder name="AboutBox" displayName="AboutBox" projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <logicalFolder name="src" displayName="src" projectFiles="true">
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/IMG_6781.png</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/IMG_6781.xcf</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/header.png</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/wxaboutboxtest.7z</itemPath>
+          </logicalFolder>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/IMG_6781.h</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/header_png.h</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/wxMozillaLikeAboutBoxDialog.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/wxMozillaLikeAboutBoxDialog.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Button" displayName="Button" projectFiles="true">
+        <logicalFolder name="CustomButton"
+                       displayName="CustomButton"
+                       projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Button/CustomButton/CustomButton.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Button/CustomButton/CustomButton.h</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="ComboBox" displayName="ComboBox" projectFiles="true">
+        <itemPath>Ctrl/ComboBox/ComboBox.cpp</itemPath>
+        <itemPath>Ctrl/ComboBox/ComboBox.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="ComboPanel" displayName="ComboPanel" projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.fbp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.h</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanelA.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanelA.h</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/ComboPanel.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/ComboPanel.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="ComboVListBox"
+                     displayName="ComboVListBox"
+                     projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/classes/PopupVListBox.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/classes/PopupVListBox.h</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/ComboVListBox.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/ComboVListBox.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Control" displayName="Control" projectFiles="true">
+        <itemPath>Ctrl/Control/Control.cpp</itemPath>
+        <itemPath>Ctrl/Control/Control.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="DataViewCtrl"
+                     displayName="DataViewCtrl"
+                     projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewColumn.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewColumn.h</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewVirtualListModel.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewVirtualListModel.h</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/DataViewCtrl.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/DataViewCtrl.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="FlatNotebook"
+                     displayName="FlatNotebook"
+                     projectFiles="true">
+        <logicalFolder name="wxFlatNotebook"
+                       displayName="wxFlatNotebook"
+                       projectFiles="true">
+          <itemPath>../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/fnb_customize_dlg.cpp</itemPath>
+          <itemPath>../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/fnb_resources.cpp</itemPath>
+          <itemPath>../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/popup_dlg.cpp</itemPath>
+          <itemPath>../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/renderer.cpp</itemPath>
+          <itemPath>../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/wxFlatNotebook.cpp</itemPath>
+          <itemPath>../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/xh_fnb.cpp</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/FlatNotebook/FlatNotebook.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/FlatNotebook/FlatNotebook.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="ImagePicker" displayName="ImagePicker" projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <logicalFolder name="images" displayName="images" projectFiles="true">
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/No_Image_Available.h</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/No_Image_Available.png</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/badimage1.h</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/badimage1.png</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.h</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.png</itemPath>
+            <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.xcf</itemPath>
+          </logicalFolder>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.fbp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.h</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePickerA.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePickerA.h</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/ImagePicker.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/ImagePicker.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Logger" displayName="Logger" projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.fbp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.h</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLoggerA.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLoggerA.h</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/Logger.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/Logger.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="MessageBox" displayName="MessageBox" projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/MessageBox/classes/uiMessageBox.fbp</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="StatusBar" displayName="StatusBar" projectFiles="true">
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/StatusBar/StatusBar.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/StatusBar/StatusBar.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="TaskBarIcon" displayName="TaskBarIcon" projectFiles="true">
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/TaskBarIcon/TaskBarIcon.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/TaskBarIcon/TaskBarIcon.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="VListBox" displayName="VListBox" projectFiles="true">
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/VListBox/VListBox.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/VListBox/VListBox.h</itemPath>
+      </logicalFolder>
+      <itemPath>Ctrl/Ctrl.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="DB" displayName="DB" projectFiles="true">
+      <logicalFolder name="Engines" displayName="Engines" projectFiles="true">
+        <itemPath>DB/Engines/DBBase.cpp</itemPath>
+        <itemPath>DB/Engines/DBBase.h</itemPath>
+        <itemPath>DB/Engines/DBSQLite.cpp</itemPath>
+        <itemPath>DB/Engines/DBSQLite.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f2" displayName="sqlite3" projectFiles="true">
+        <itemPath>../wxCodes/wxsqlite3/sqlite3/secure/src/sqlite3.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="wxsqlite3" projectFiles="true">
+        <itemPath>../wxCodes/wxsqlite3/src/wxsqlite3.cpp</itemPath>
+      </logicalFolder>
+      <itemPath>DB/AppDB.cpp</itemPath>
+      <itemPath>DB/AppDB.h</itemPath>
+      <itemPath>DB/Functions.cpp</itemPath>
+      <itemPath>DB/Functions.h</itemPath>
+      <itemPath>DB/Recordset.cpp</itemPath>
+      <itemPath>DB/Recordset.h</itemPath>
+      <itemPath>DB/Strings.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="Form" displayName="Form" projectFiles="true">
+      <logicalFolder name="Dialog" displayName="Dialog" projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/classes/wxDialogB.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/classes/wxDialogB.h</itemPath>
+        </logicalFolder>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/_dlg.fbp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlg.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlg.h</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgFieldEditor.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgFieldEditor.h</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordEditor.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordEditor.h</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordManager.cpp</itemPath>
+        <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordManager.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Frame" displayName="Frame" projectFiles="true">
+      </logicalFolder>
+      <logicalFolder name="Panel" displayName="Panel" projectFiles="true">
+        <logicalFolder name="classes" displayName="classes" projectFiles="true">
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Panel/classes/wxPanelB.cpp</itemPath>
+          <itemPath>/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Panel/classes/wxPanelB.h</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="JSON" displayName="JSON" projectFiles="true">
+      <logicalFolder name="src" displayName="src" projectFiles="true">
+        <itemPath>../wxCodes/wxJSON-1.2.1/src/jsonreader.cpp</itemPath>
+        <itemPath>../wxCodes/wxJSON-1.2.1/src/jsonval.cpp</itemPath>
+        <itemPath>../wxCodes/wxJSON-1.2.1/src/jsonwriter.cpp</itemPath>
+      </logicalFolder>
+      <itemPath>JSON/MyJSON.cpp</itemPath>
+      <itemPath>JSON/MyJSON.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>DdyLib.wx.h</itemPath>
+    <itemPath>wx_pch.cpp</itemPath>
+    <itemPath>wx_pch.h</itemPath>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>Form</Elem>
+    <Elem>ArtProvider</Elem>
+    <Elem>../wxCodes/wxJSON/src</Elem>
+    <Elem>../wxCodes/wxsqlite3/src</Elem>
+    <Elem>../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook</Elem>
+    <Elem>Ctrl/ComboBox</Elem>
+    <Elem>Ctrl/Control</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Linux64-Debug" type="3">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+            <pElem>../wxCodes/wxflatnotebook/contrib/include</pElem>
+            <pElem>../wxCodes/wxJSON-1.2.1/include</pElem>
+          </incDir>
+          <commandLine>`./wx-config.my`</commandLine>
+          <useLinkerLibraries>false</useLinkerLibraries>
+        </ccTool>
+        <archiverTool>
+        </archiverTool>
+      </compileType>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonreader.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonval.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonwriter.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/fnb_customize_dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/fnb_resources.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/popup_dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/renderer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/wxFlatNotebook.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/xh_fnb.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxsqlite3/sqlite3/secure/src/sqlite3.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxsqlite3/src/wxsqlite3.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/ArtProvider.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/ArtProvider.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/ToolbarIcons/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/fatcow/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/iTOOLBAR.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/image_1/noimage.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/image_1/noimage_png.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/open_icon_library-standard/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/mmwx.tar.gz"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/precomp.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/precomp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/thingdef.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/toggle.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/toggle.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/IMG_6781.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/header_png.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/IMG_6781.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/IMG_6781.xcf"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/header.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/wxaboutboxtest.7z"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/wxMozillaLikeAboutBoxDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/wxMozillaLikeAboutBoxDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Button/CustomButton/CustomButton.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Button/CustomButton/CustomButton.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/ComboPanel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/ComboPanel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanelA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanelA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/ComboVListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/ComboVListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/classes/PopupVListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/classes/PopupVListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/DataViewCtrl.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/DataViewCtrl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewColumn.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewColumn.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewVirtualListModel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewVirtualListModel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/FlatNotebook/FlatNotebook.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/FlatNotebook/FlatNotebook.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/ImagePicker.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/ImagePicker.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/No_Image_Available.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/No_Image_Available.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/badimage1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/badimage1.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.xcf"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePickerA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePickerA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/Logger.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/Logger.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLoggerA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLoggerA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/MessageBox/classes/uiMessageBox.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/StatusBar/StatusBar.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/StatusBar/StatusBar.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/TaskBarIcon/TaskBarIcon.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/TaskBarIcon/TaskBarIcon.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/VListBox/VListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/VListBox/VListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/_dlg.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/classes/wxDialogB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/classes/wxDialogB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlg.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgFieldEditor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgFieldEditor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordEditor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordEditor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordManager.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordManager.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Panel/classes/wxPanelB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Panel/classes/wxPanelB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="Base/Base.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/Base.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/BaseDefs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/ClientData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/ClientData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/FUNCTION.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/Global_Var.tar.gz" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MYDEFINE.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MyConfig.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/MyConfig.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MyUtils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/MyUtils.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/classes/QueryData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/classes/QueryData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewCtrlB.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewCtrlB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewVirtualListModelB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewVirtualListModelB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="Ctrl/ComboBox/ComboBox.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ctrl/ComboBox/ComboBox.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ctrl/Control/Control.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ctrl/Control/Control.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ctrl/Ctrl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/AppDB.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/AppDB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBBase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBSQLite.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBSQLite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Functions.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/Functions.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Recordset.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/Recordset.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Strings.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DdyLib.wx.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JSON/MyJSON.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JSON/MyJSON.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="wx_pch.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="wx_pch.h" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Linux64-Release" type="2">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <commandLine>`./wx-config.my`</commandLine>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonreader.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonval.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonwriter.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/fnb_customize_dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/fnb_resources.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/popup_dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/renderer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/wxFlatNotebook.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/xh_fnb.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxsqlite3/sqlite3/secure/src/sqlite3.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../wxCodes/wxsqlite3/src/wxsqlite3.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/ArtProvider.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/ArtProvider.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/ToolbarIcons/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/fatcow/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/iTOOLBAR.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/image_1/noimage.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/image_1/noimage_png.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/open_icon_library-standard/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/mmwx.tar.gz"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/precomp.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/precomp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/thingdef.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/toggle.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/toggle.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/IMG_6781.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/header_png.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/IMG_6781.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/IMG_6781.xcf"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/header.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/wxaboutboxtest.7z"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/wxMozillaLikeAboutBoxDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/wxMozillaLikeAboutBoxDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Button/CustomButton/CustomButton.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Button/CustomButton/CustomButton.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/ComboPanel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/ComboPanel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanelA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanelA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/ComboVListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/ComboVListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/classes/PopupVListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/classes/PopupVListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/DataViewCtrl.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/DataViewCtrl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewColumn.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewColumn.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewVirtualListModel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewVirtualListModel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/FlatNotebook/FlatNotebook.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/FlatNotebook/FlatNotebook.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/ImagePicker.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/ImagePicker.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/No_Image_Available.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/No_Image_Available.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/badimage1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/badimage1.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.xcf"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePickerA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePickerA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/Logger.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/Logger.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLoggerA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLoggerA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/MessageBox/classes/uiMessageBox.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/StatusBar/StatusBar.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/StatusBar/StatusBar.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/TaskBarIcon/TaskBarIcon.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/TaskBarIcon/TaskBarIcon.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/VListBox/VListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/VListBox/VListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/_dlg.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/classes/wxDialogB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/classes/wxDialogB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlg.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgFieldEditor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgFieldEditor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordEditor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordEditor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordManager.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordManager.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Panel/classes/wxPanelB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Panel/classes/wxPanelB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="Base/Base.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/Base.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/BaseDefs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/ClientData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/ClientData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/FUNCTION.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/Global_Var.tar.gz" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MYDEFINE.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MyConfig.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/MyConfig.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MyUtils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/MyUtils.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/classes/QueryData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/classes/QueryData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewCtrlB.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewCtrlB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewVirtualListModelB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewVirtualListModelB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="Ctrl/ComboBox/ComboBox.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ctrl/ComboBox/ComboBox.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ctrl/Control/Control.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ctrl/Control/Control.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ctrl/Ctrl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/AppDB.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/AppDB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBBase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBSQLite.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBSQLite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Functions.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/Functions.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Recordset.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DB/Recordset.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Strings.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DdyLib.wx.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JSON/MyJSON.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JSON/MyJSON.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="wx_pch.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="wx_pch.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Win64-Debug" type="3">
+      <toolsSet>
+        <compilerSet>MinGW_TDM|MinGW_TDM</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>../../wxWidgets-3.0.2/include</pElem>
+            <pElem>../../wxWidgets-3.0.2/lib/gcc_dll/mswud</pElem>
+            <pElem>../wxCodes/wxflatnotebook/contrib/include</pElem>
+            <pElem>../wxCodes/wxJSON-1.2.1/include</pElem>
+            <pElem>../wxCodes/wxsqlite3/include</pElem>
+            <pElem>../wxCodes/wxsqlite3/sqlite3/include</pElem>
+          </incDir>
+          <incFile>
+            <pElem>wx_pch.h</pElem>
+          </incFile>
+          <commandLine>-mthreads -DHAVE_W32API_H -D__WXMSW__ -D__WXDEBUG__ -D_UNICODE -DWXUSINGDLL -Wno-ctor-dtor-privacy -pipe -fmessage-length=0 -Wl,--subsystem,windows -mwindows -Wl,--enable-auto-import -std=gnu++11</commandLine>
+          <useLinkerLibraries>false</useLinkerLibraries>
+        </ccTool>
+        <archiverTool>
+        </archiverTool>
+      </compileType>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonreader.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonval.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxJSON-1.2.1/src/jsonwriter.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/fnb_customize_dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/fnb_resources.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/popup_dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/renderer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/wxFlatNotebook.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxflatnotebook/contrib/src/wxFlatNotebook/xh_fnb.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxsqlite3/sqlite3/secure/src/sqlite3.c"
+            ex="false"
+            tool="0"
+            flavor2="9">
+      </item>
+      <item path="../wxCodes/wxsqlite3/src/wxsqlite3.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/ArtProvider.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/ArtProvider.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/ToolbarIcons/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/fatcow/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/iTOOLBAR.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/image_1/noimage.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/image_1/noimage_png.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/ArtProvider/classes/open_icon_library-standard/icon_png16x16.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/mmwx.tar.gz"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/precomp.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/precomp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/thingdef.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/toggle.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Contrib/wxthings/toggle.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/IMG_6781.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/header_png.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/IMG_6781.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/IMG_6781.xcf"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/header.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/classes/src/wxaboutboxtest.7z"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/wxMozillaLikeAboutBoxDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/AboutBox/wxMozillaLikeAboutBoxDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Button/CustomButton/CustomButton.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Button/CustomButton/CustomButton.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/ComboPanel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/ComboPanel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanelA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboPanel/classes/uiComboPanelA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/ComboVListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/ComboVListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/classes/PopupVListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ComboVListBox/classes/PopupVListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/DataViewCtrl.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/DataViewCtrl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewColumn.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewColumn.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewVirtualListModel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/DataViewCtrl/classes/DataViewVirtualListModel.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/FlatNotebook/FlatNotebook.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/FlatNotebook/FlatNotebook.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/ImagePicker.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/ImagePicker.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/No_Image_Available.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/No_Image_Available.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/badimage1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/badimage1.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/images/noimage1.xcf"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePicker.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePickerA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/ImagePicker/classes/uiImagePickerA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/Logger.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/Logger.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLogger.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLoggerA.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/Logger/classes/uiLoggerA.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/MessageBox/classes/uiMessageBox.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/StatusBar/StatusBar.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/StatusBar/StatusBar.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/TaskBarIcon/TaskBarIcon.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/TaskBarIcon/TaskBarIcon.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/VListBox/VListBox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Ctrl/VListBox/VListBox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/_dlg.fbp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/classes/wxDialogB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/classes/wxDialogB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlg.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlg.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgFieldEditor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgFieldEditor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordEditor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordEditor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordManager.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Dialog/dlgRecordManager.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Panel/classes/wxPanelB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="/opt/wxWidgets/wxProjects/DdyLib.wx/Form/Panel/classes/wxPanelB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="Base/Base.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="Base/Base.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/BaseDefs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/ClientData.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="Base/ClientData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/FUNCTION.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/Global_Var.tar.gz" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MYDEFINE.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MyConfig.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="Base/MyConfig.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/MyUtils.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="Base/MyUtils.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/classes/QueryData.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="Base/classes/QueryData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewCtrlB.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="Base/wxBase/wxDataViewCtrlB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Base/wxBase/wxDataViewVirtualListModelB.cpp"
+            ex="false"
+            tool="1"
+            flavor2="9">
+      </item>
+      <item path="Base/wxBase/wxDataViewVirtualListModelB.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="Ctrl/ComboBox/ComboBox.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ctrl/ComboBox/ComboBox.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ctrl/Control/Control.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ctrl/Control/Control.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ctrl/Ctrl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/AppDB.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="DB/AppDB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBBase.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="DB/Engines/DBBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Engines/DBSQLite.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="DB/Engines/DBSQLite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Functions.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="DB/Functions.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Recordset.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="DB/Recordset.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DB/Strings.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DdyLib.wx.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JSON/MyJSON.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="JSON/MyJSON.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="wx_pch.cpp" ex="false" tool="1" flavor2="9">
+      </item>
+      <item path="wx_pch.h" ex="false" tool="1" flavor2="9">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

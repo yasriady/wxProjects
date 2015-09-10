@@ -1,0 +1,18 @@
+#!/bin/bash
+# Ddy: to generate wxWidgets configuration for Netbeans
+
+CXXFLAGS=`wx-config --cxxflags`
+LDFLAGS=`wx-config --libs`
+
+MYINCDIR1="-I../wxCodes/wxJSON-1.2.1/include"
+MYINCDIR2="-I../wxCodes/wxsqlite3/include -I../wxCodes/wxsqlite3/sqlite3/include"
+MYINCDIR3="-I../wxCodes/wxflatnotebook/contrib/include"
+MYINCDIR="$MYINCDIR1 $MYINCDIR2 $MYINCDIR3"
+
+MYINCFLE1="-includewx_pch.h"
+MYINCFLE2=""
+
+MYINCFLE="$MYINCFLE1 $MYINCFLE2"
+
+echo $MYINCDIR $MYINCFLE $CXXFLAGS $LDFLAGS
+
